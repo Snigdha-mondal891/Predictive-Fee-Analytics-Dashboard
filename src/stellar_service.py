@@ -19,7 +19,7 @@ from stellar_sdk import (
     Asset,
 )
 from stellar_sdk import scval
-from stellar_sdk.soroban_rpc import SorobanServer
+from stellar_sdk import SorobanServer
 from stellar_sdk.xdr import TransactionMeta
 import time
 
